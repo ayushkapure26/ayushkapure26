@@ -42,6 +42,15 @@ Development project: station information is sample or community-reported. Online
 
 Project integrations: Firebase, Google Maps, and Gemini.
 
+## Certifications & job simulations
+
+**Accenture — Developer and Technology Job Simulation**  
+Certificate of Completion · Issued by Forage · **24 November 2024**
+
+Completed practical learning tasks covering software development and testing lifecycles, Agile and Waterfall methods, algorithmic thinking, and code debugging.
+
+[View completion certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ovyvuqqNRQKBjNxbj/3xnZEj9kfpoQKW885_ovyvuqqNRQKBjNxbj_HwoRRiW2e4CwZcYFw_1732420745841_completion_certificate.pdf) · [LinkedIn profile](https://www.linkedin.com/in/ayush-kapure-19152a281/)
+
 ## Currently exploring
 
 - Making offline workflows easier to use.
