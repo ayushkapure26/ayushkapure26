@@ -7,6 +7,7 @@
 </p>
 
 <p align="center">
+<a href="https://ayushkapure26.github.io/ayush-portfolio/"><strong>🌐 Live Portfolio</strong></a> ·
 <a href="https://github.com/ayushkapure26/Ayush_prmm">Featured project</a> ·
 <a href="https://github.com/ayushkapure26/Ayush_prmm/actions/workflows/android.yml">Builds &amp; APK</a> ·
 <a href="https://github.com/ayushkapure26/Ayush_prmm/commits/main/">Development activity</a>
@@ -17,6 +18,8 @@
 I build Android apps around everyday problems. My current project, **CNG मित्र**, helps drivers keep track of refills, mileage, and fuel spending.
 
 I'm developing my skills through the full process: designing screens, storing data, investigating failures, and improving the build.
+
+> **Portfolio:** [View my live developer portfolio →](https://ayushkapure26.github.io/ayush-portfolio/)
 
 ## Featured project — CNG मित्र
 
@@ -64,7 +67,9 @@ Completed practical learning tasks covering software development and testing lif
 - **Ongoing development:** [commits](https://github.com/ayushkapure26/Ayush_prmm/commits/main/) and [workflow runs](https://github.com/ayushkapure26/Ayush_prmm/actions) show the actual work and its checks.
 
 ## 🌐 Connect
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushkapure26@gmail.com) 
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://ayushkapure26.github.io/ayush-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kapure-19152a281/)
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushkapure26@gmail.com)
 
 ## 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
