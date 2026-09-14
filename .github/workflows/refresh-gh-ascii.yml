@@ -1,0 +1,40 @@
+name: Refresh gh-ascii card
+
+on:
+  push:
+    branches: [main]
+  schedule:
+    - cron: "17 6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-gh-ascii-card
+  cancel-in-progress: true
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download both themes
+        run: |
+          curl -fsSL --retry 3 --retry-delay 5 "https://gh.crafter.run/ayushkapure26?theme=dark" -o dark_mode.svg
+          curl -fsSL --retry 3 --retry-delay 5 "https://gh.crafter.run/ayushkapure26?theme=light" -o light_mode.svg
+          grep -q '<svg' dark_mode.svg
+          grep -q '<svg' light_mode.svg
+
+      - name: Commit card files if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add dark_mode.svg light_mode.svg
+          if git diff --cached --quiet; then
+            echo "Card unchanged — nothing to commit."
+          else
+            git commit -m "feat: add gh-ascii profile card"
+            git push
+          fi
