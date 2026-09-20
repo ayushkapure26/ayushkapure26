@@ -55,6 +55,21 @@ Project integrations: Firebase, Google Maps, and Gemini.
 
 ## Certifications & job simulations
 
+### Deloitte — Data Analytics Job Simulation
+Certificate of Completion · Issued by Forage · **19 September 2026**
+
+Completed practical tasks in data analysis and forensic technology.
+
+### Freshfields — US Capital Markets Job Simulation
+Certificate of Completion · Issued by Forage · **17 September 2026**
+
+Completed practical tasks in documentary due diligence review and Form 10-Q review.
+
+### Tata — GenAI Powered Data Analytics Job Simulation
+Certificate of Completion · Issued by Forage · **16 September 2026**
+
+Completed practical tasks in exploratory data analysis and risk profiling, predicting delinquency with AI, business reporting and data storytelling for collections strategy, and implementing an AI-driven collections strategy.
+
 **Accenture — Developer and Technology Job Simulation**  
 Certificate of Completion · Issued by Forage · **24 November 2024**
 
