@@ -15,7 +15,7 @@
 </p>
 
 <p align="center">
-<a href="https://ayushkapure26.github.io/ayush-portfolio/"><strong>🌐 Live Portfolio</strong></a> ·
+<a href="https://ayush-kapure-cinematic.ayushkapure26.chatgpt.site"><strong>🌐 Live Portfolio</strong></a> ·
 <a href="https://github.com/ayushkapure26/Ayush_prmm">Featured project</a> ·
 <a href="https://github.com/ayushkapure26/Ayush_prmm/actions/workflows/android.yml">Builds &amp; APK</a> ·
 <a href="https://github.com/ayushkapure26/Ayush_prmm/commits/main/">Development activity</a>
@@ -27,7 +27,7 @@ I build Android apps around everyday problems. My current project, **CNG मि�
 
 I'm developing my skills through the full process: designing screens, storing data, investigating failures, and improving the build.
 
-> **Portfolio:** [View my live developer portfolio →](https://ayushkapure26.github.io/ayush-portfolio/)
+> **Portfolio:** [View my live developer portfolio →](https://ayush-kapure-cinematic.ayushkapure26.chatgpt.site)
 
 ## Featured project — CNG मित्र
 
@@ -90,7 +90,7 @@ Completed practical learning tasks covering software development and testing lif
 - **Ongoing development:** [commits](https://github.com/ayushkapure26/Ayush_prmm/commits/main/) and [workflow runs](https://github.com/ayushkapure26/Ayush_prmm/actions) show the actual work and its checks.
 
 ## 🌐 Connect
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://ayushkapure26.github.io/ayush-portfolio/)
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://ayush-kapure-cinematic.ayushkapure26.chatgpt.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kapure-19152a281/)
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushkapure26@gmail.com)
 
