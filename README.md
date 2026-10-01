@@ -1,51 +1,26 @@
 <p align="center">
-<img src="assets/animated-profile.svg" alt="Ayush Kapure — animated developer portfolio" width="100%" />
+  <img src="assets/animated-profile.svg?v=2" alt="Ayush Kapure — animated developer portfolio with a waving character, rotating toolkit, swinging ID and real GitHub contribution city" width="100%" />
 </p>
 
 <p align="center">
-<strong>Computer Engineering student · Android development · Learning through projects</strong>
+<a href="https://github.com/ayushkapure26/Ayush_prmm"><strong>CNG Mitra</strong></a> ·
+<a href="https://github.com/ayushkapure26/Data-Check"><strong>Data Check</strong></a> ·
+<a href="https://ayush-kapure-cinematic.ayushkapure26.chatgpt.site"><strong>Portfolio</strong></a> ·
+<a href="https://www.linkedin.com/in/ayush-kapure-19152a281/"><strong>LinkedIn</strong></a> ·
+<a href="mailto:ayushkapure26@gmail.com"><strong>Email</strong></a>
 </p>
 
-<p align="center">
-<a href="https://ayush-kapure-cinematic.ayushkapure26.chatgpt.site"><strong>🌐 Live Portfolio</strong></a> ·
-<a href="https://github.com/ayushkapure26/Ayush_prmm">Featured project</a> ·
-<a href="https://github.com/ayushkapure26/Ayush_prmm/actions/workflows/android.yml">Builds &amp; APK</a> ·
-<a href="https://github.com/ayushkapure26/Ayush_prmm/commits/main/">Development activity</a>
-</p>
+### Featured builds
 
-## Hi, I'm Ayush
+| Project | What it does | Explore |
+| :--- | :--- | :--- |
+| **CNG Mitra** | Android fuel diary: refill records, mileage, expenses, offline Guest Mode and CSV import/export. | [Source](https://github.com/ayushkapure26/Ayush_prmm) · [Builds & APK](https://github.com/ayushkapure26/Ayush_prmm/actions/workflows/android.yml) |
+| **Data Check** | A JavaScript data tooling project. | [Source](https://github.com/ayushkapure26/Data-Check) |
 
-I build Android apps around everyday problems. My current project, **CNG मित्र**, helps drivers keep track of refills, mileage, and fuel spending.
+CNG Mitra is a development project. Station information is sample or community-reported; online services require configuration.
 
-I'm developing my skills through the full process: designing screens, storing data, investigating failures, and improving the build.
-
-> **Portfolio:** [View my live developer portfolio →](https://ayush-kapure-cinematic.ayushkapure26.chatgpt.site)
-
-## Featured project — CNG मित्र
-
-**A practical fuel diary for CNG drivers.**
-
-| In the app | Behind the scenes |
-| :--- | :--- |
-| Vehicle and refill records | Kotlin and Jetpack Compose |
-| Mileage and expense reports | Room and coroutines |
-| Offline Guest Mode | Local data storage |
-| CSV import and export | Data portability |
-| Automated build checks | GitHub Actions, unit tests, Android lint |
-
-[![Android build](https://github.com/ayushkapure26/Ayush_prmm/actions/workflows/android.yml/badge.svg)](https://github.com/ayushkapure26/Ayush_prmm/actions/workflows/android.yml)
-
-**[Explore the source →](https://github.com/ayushkapure26/Ayush_prmm)** · **[Find a debug APK →](https://github.com/ayushkapure26/Ayush_prmm/actions/workflows/android.yml)**
-
-Development project: station information is sample or community-reported. Online services require configuration.
-
-## My project toolkit
-
-**Kotlin · Jetpack Compose · Room · Coroutines · Git · GitHub Actions**
-
-Project integrations: Firebase, Google Maps, and Gemini.
-
-## Certifications & job simulations
+<details>
+<summary><strong>Certifications & job simulations</strong></summary>
 
 ### Deloitte — Data Analytics Job Simulation
 Certificate of Completion · Issued by Forage · **19 September 2026**
@@ -69,42 +44,19 @@ Completed practical learning tasks covering software development and testing lif
 
 [View completion certificate](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/ovyvuqqNRQKBjNxbj/3xnZEj9kfpoQKW885_ovyvuqqNRQKBjNxbj_HwoRRiW2e4CwZcYFw_1732420745841_completion_certificate.pdf) · [LinkedIn profile](https://www.linkedin.com/in/ayush-kapure-19152a281/)
 
-## Currently exploring
+</details>
 
-- Making offline workflows easier to use.
-- Understanding Android testing and build reliability.
-- Improving the way apps present useful data.
+<details>
+<summary><strong>About this animated profile</strong></summary>
 
-## Progress you can inspect
+I'm a Computer Engineering student building Android apps around everyday problems. My project toolkit includes Kotlin, Jetpack Compose, Room, coroutines, Git and GitHub Actions.
 
-- **Build reliability:** Android SDK 36 Robolectric tests require Java 21; the workflow now uses it. [Successful verification](https://github.com/ayushkapure26/Ayush_prmm/actions/runs/34488467187).
-- **Project documentation:** features, setup instructions, and debug APK download steps are available in the project README.
-- **Ongoing development:** [commits](https://github.com/ayushkapure26/Ayush_prmm/commits/main/) and [workflow runs](https://github.com/ayushkapure26/Ayush_prmm/actions) show the actual work and its checks.
+The character and illustrations are original vector artwork. The character is a developer mascot, not a photograph. The carousel covers design, data and learning interests.
 
-## 🌐 Connect
-[![Portfolio](https://img.shields.io/badge/Live_Portfolio-111111?style=for-the-badge&logo=githubpages&logoColor=white)](https://ayush-kapure-cinematic.ayushkapure26.chatgpt.site)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayush-kapure-19152a281/)
-[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushkapure26@gmail.com)
+The city contains one building per day in the public GitHub contribution calendar; building height follows GitHub's activity level. The displayed period is shown in the dashboard. Language counts show the primary language of each public, non-fork repository with a detected language, not code percentages or skill scores.
 
-## 💻 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Objective-C](https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)
+[Public data snapshot](assets/profile-data.json) · [Renderer](scripts/render_profile.py) · [Refresh workflow](../../actions/workflows/refresh-profile.yml)
 
-## 📊 GitHub Stats
+Animations respect reduced-motion settings. GitHub may cache image updates briefly.
 
-[View contributions and repositories on GitHub](https://github.com/ayushkapure26?tab=repositories). Cards below are provided by external services and may occasionally be unavailable.
-
-![GitHub public activity statistics](https://github-readme-stats.shion.dev/api?username=ayushkapure26&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![GitHub contribution streak](https://streak-stats.demolab.com/?user=ayushkapure26&theme=dark&hide_border=false)<br/>
-![Most used languages across public repositories](https://github-readme-stats.shion.dev/api/top-langs/?username=ayushkapure26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![GitHub activity trophies](https://github-profile-trophy.vercel.app/?username=ayushkapure26&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
-[![Profile views](https://komarev.com/ghpvc/?username=ayushkapure26&icon=0&color=0)](https://github.com/ayushkapure26)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
----
-
-<p align="center"><sub>Useful projects. Clear code. Steady learning.</sub></p>
+</details>
