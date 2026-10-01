@@ -1,13 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
-  <img alt="ayushkapure26's GitHub profile" src="dark_mode.svg" />
-</picture>
-
-<br/>
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/ayushkapure26/Ayush_prmm/main/docs/github-profile/banner.svg" alt="Ayush Kapure — Building useful Android apps, one improvement at a time." width="100%" />
+<img src="assets/animated-profile.svg" alt="Ayush Kapure — animated developer portfolio" width="100%" />
 </p>
 
 <p align="center">
