@@ -1,8 +1,8 @@
 {
-  "updated_at": "14 Nov 2026",
+  "updated_at": "15 Nov 2026",
   "contributions": 111,
   "active_days": 16,
-  "days": 371,
+  "days": 365,
   "public_repos": 9,
   "followers": 3,
   "languages_by_repo": {
@@ -12,7 +12,7 @@
     "Kotlin": 4
   },
   "period": [
-    "2025-11-09",
-    "2026-11-14"
+    "2025-11-16",
+    "2026-11-15"
   ]
 }
